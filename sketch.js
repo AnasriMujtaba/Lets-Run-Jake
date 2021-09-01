@@ -11,7 +11,7 @@ pathImg=loadImage("path.png");
 powerImg=loadImage("power.png");
 jakeImg=loadAnimation("Runner1.png","Runner2.png");
 bombImg=loadImage("bomb.png");
-energydrinkImg=loadImage("energydrink.png")
+energydrinkImg=loadImage("energyDrink.png");
 
 }
 
