@@ -124,7 +124,5 @@ if(jake.isTouching(bomb)){
 
 jake.x=World.mouseX;
 
-jake.collide(invisibleGround);
-jake.collide(invisibleGround2);
 
 }
